@@ -1,0 +1,21 @@
+{
+  "ble": "cyberpunk_bluetooth.png",
+  "rfid": "cyberpunk_rfid.png",
+  "connect": "Signal_Override_09.png",
+  "rf": "cyberpunk_nrf.png",
+  "config": "NeonShroud_Comm.png",
+  "ir": "cyberpunk_ir.png",
+  "files": "cyberpunk_files.png",
+  "fm": "cyberpunk_fm.png",
+  "gps": "cyberpunk_gps.png",
+  "interpreter": "GhostRelay_Hub.png",
+  "nrf": "DarkNet_Window.png",
+  "others": "Tower_Whisper_X.png",
+  "clock": "RainShell_Uplink.png",
+  "wifi": "cyberpunk_wifi.png",
+  "priColor": "067f",
+  "secColor": "e81f",
+  "bgColor": "0000",
+  "border": 0,
+  "label": 0
+}
